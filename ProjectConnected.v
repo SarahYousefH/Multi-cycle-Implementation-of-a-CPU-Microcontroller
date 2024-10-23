@@ -1388,7 +1388,8 @@ module test_processor;
 							); 
 	
 	  
-							
+
+	// Needs editing to build a comprehensive testbench
 	always #5 clk = ~clk; 
 	initial 
 		begin
