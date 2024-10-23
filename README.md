@@ -50,7 +50,7 @@ Looking ahead, there are several enhancements and expansions planned for the RIS
 
 ## Contributors 👥
 
-This project was developed by Sy Hassouneh and Sondos Qasarwa, students of the Department of Electrical and Computer Engineering.
+This project was developed by Sarah Hassouneh and Sondos Qasarwa, students of the Department of Electrical and Computer Engineering.
 
 ## Docuentation 📄
 
