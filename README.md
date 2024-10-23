@@ -46,8 +46,7 @@ Looking ahead, there are several enhancements and expansions planned for the RIS
 
 - **Support for Additional Instructions:** We plan to extend the instruction set to include more complex operations and possibly introduce support for floating-point calculations.
 - **Performance Optimization:** Investigating opportunities for optimizing the existing pipeline to reduce latency and increase throughput.
-- **Testing and Verification:** Creating comprehensive testbenches to cover all possible scenarios proved to be the most intricate part of the project.
-
+- **Testing and Verification:** Aiming to create comprehensive testbenches to cover all possible scenarios proved to be the most intricate part of the project. 
 
 ## Contributors 👥
 
