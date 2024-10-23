@@ -53,7 +53,7 @@ Looking ahead, there are several enhancements and expansions planned for the RIS
 
 This project was developed by Sy Hassouneh and Sondos Qasarwa, students of the Department of Electrical and Computer Engineering.
 
-## Docuentation
+## Docuentation 📄
 
 For detailed documentation of this project, see the [Project Report](https://github.com/SarahYousefH/Multi-cycle-Implementation-of-a-CPU-Microcontroller/blob/c43f871c5427a51b7af22cdde40f6824a5a6a2ed/Project2_Report_Sarah%20Hassouneh_1210068_Sondos%20Qasarwa_1210259.pdf).
 
