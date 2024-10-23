@@ -55,7 +55,7 @@ This project was developed by Sy Hassouneh and Sondos Qasarwa, students of the D
 
 ## Docuentation
 
-For full documentation of the project, please see the attached PDF: [Link_to_PDF]
+For full documentation of the project, please see the attached PDF: https://github.com/SarahYousefH/Multi-cycle-Implementation-of-a-CPU-Microcontroller/blob/c43f871c5427a51b7af22cdde40f6824a5a6a2ed/Project2_Report_Sarah%20Hassouneh_1210068_Sondos%20Qasarwa_1210259.pdf
 
 
 ## Installation and Setup 📦
